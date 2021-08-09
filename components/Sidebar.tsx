@@ -53,8 +53,9 @@ const Sidebar = () => {
       </div>
       {/* email button */}
       <div className="flex items-center justify-center">
-        <button className="w-8/12 px-5 py-2 my-2 text-white rounded-full bg-gradient-to-r from-blue to-blue-400 focus:outline-none"
-        onClick={()=>window.open('mailto:supawish.kj@gmail.com')}
+        <button
+          className="w-8/12 px-5 py-2 my-2 text-white rounded-full bg-gradient-to-r from-blue to-blue-400 focus:outline-none"
+          onClick={() => window.open("mailto:supawish.kj@gmail.com")}
         >
           Email Me
         </button>
