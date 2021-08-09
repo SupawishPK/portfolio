@@ -1,8 +1,4 @@
 const index = () => {
-  return (
-    <div>
-      hello world
-    </div>
-  )
-}
-export default index
+  return <div className="p-4">Hello</div>;
+};
+export default index;
