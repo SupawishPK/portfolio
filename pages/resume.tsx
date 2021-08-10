@@ -16,9 +16,7 @@ const resume = () => {
             <p className="font-semibold">
               King Mongkut’s Institute of Technology Ladkrabang(2017-2021)
             </p>
-            <p className="my-3">
-              waqdmfpaogpowasdgmpsdkfop'sm,poko
-            </p>
+            <p className="my-3">waqdmfpaogpowasdgmpsdkfop'sm,poko</p>
           </div>
         </div>
 
