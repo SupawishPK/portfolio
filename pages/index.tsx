@@ -1,4 +1,4 @@
-import { GetServerSidePropsContext, GetStaticPropsContext } from "next";
+// import { GetServerSidePropsContext, GetStaticPropsContext } from "next";
 import React from "react";
 import { services } from "../data";
 import ServicesCard from "../components/ServiceCard";
@@ -45,10 +45,10 @@ export default index;
 //     },
 //   };
 // };
-
+/* 
 export const getStaticProps = async (context: GetStaticPropsContext) => {
   //calculation
-  const res = await fetch("http://localhost:3000/api/services");
+ /*  const res = await fetch("http://localhost:3000/api/services");
   const data = await res.json();
 
   //  console.log("SERVER", services);
@@ -57,5 +57,5 @@ export const getStaticProps = async (context: GetStaticPropsContext) => {
     props: {
       services: data.services,
     },
-  };
-};
+  }; 
+}; */
