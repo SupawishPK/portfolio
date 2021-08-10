@@ -17,7 +17,7 @@ const resume = () => {
               King Mongkut’s Institute of Technology Ladkrabang(2017-2021)
             </p>
             <p className="my-3">
-              Write something about this university for 4 year.
+              waqdmfpaogpowasdgmpsdkfop'sm,poko
             </p>
           </div>
         </div>
