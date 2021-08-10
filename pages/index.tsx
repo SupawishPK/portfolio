@@ -9,6 +9,8 @@ const index = () => {
     <div className="flex flex-col flex-grow px-6 pt-1">
       <h5 className="my-3 font-medium">
         To work in the position of a Developer with a company or an organization
+        specializing in Computer Science.To work in the position of a Developer with a company or an organization
+        specializing in Computer Science.To work in the position of a Developer with a company or an organization
         specializing in Computer Science
       </h5>
       <div
