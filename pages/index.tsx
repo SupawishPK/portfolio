@@ -9,9 +9,7 @@ const index = () => {
     <div className="flex flex-col flex-grow px-6 pt-1">
       <h5 className="my-3 font-medium">
         To work in the position of a Developer with a company or an organization
-        specializing in Computer Science and to be interested in applying system
-        development and web application work. I familiar with frontend and
-        backend with react.js, node.js including have knowledge of database.
+        specializing in Computer Science
       </h5>
       <div
         className="flex-grow p-4 mt-5 bg-gray-400 dark:bg-dark-500"
