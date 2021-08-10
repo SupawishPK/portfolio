@@ -29,7 +29,7 @@ const resume = () => {
             <p className="font-semibold">Tohome.com(2021-on)</p>
             <p className="my-3">
               Develop a new website at tohome. type of website is e-commerce but
-              I don't know about there.
+              I don't know anything about this job.
             </p>
           </div>
         </div>
